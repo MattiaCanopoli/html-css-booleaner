@@ -27,16 +27,14 @@ h1 {
     color: rgb(78, 181, 255)
 }
 
-div {
+#author {
+    font-size: 14px;
     color: grey;
 }
 
-#autore {
-    font-size: 14px;
-}
-
-#data {
+#date {
     font-size: 11px;
+    color: grey;
 }
 
 figure {
