@@ -2,7 +2,7 @@ header {
     height: 130px;
     background-color: #9cd6f4;
     background-image: url(../img/pattern.png);
-    background-size: 575px auto;
+    background-size: 30%;
 }
 
 #logo {
@@ -14,7 +14,8 @@ header {
 
 main {
     padding: 40px 20px;
-    margin: auto 10%;
+    width: 90%;
+    margin: auto
 }
 
 
@@ -74,12 +75,8 @@ thead {
     background-color: #dfe5f2;
 }
 
-.th-1-2 {
-    width: 470px;
-}
-
-.th-3 {
-    width: 940px
+.width-50 {
+    width: 50%
 }
 
 footer {
