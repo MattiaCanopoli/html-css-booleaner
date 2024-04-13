@@ -59,3 +59,11 @@ figure p {
 .list {
     padding-left: 10px;
 }
+
+footer {
+    background-color: #313a6b;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 20px;
+}
