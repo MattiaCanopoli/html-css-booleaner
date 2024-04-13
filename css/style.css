@@ -27,3 +27,11 @@ h1 {
 div {
     color: grey;
 }
+
+#autore {
+    font-size: 14px;
+}
+
+#data {
+    font-size: 11px;
+}
