@@ -64,10 +64,22 @@ table {
     margin-bottom: 40px;
 }
 
-/* .col-1-2 {
-    table-layout: fixed;
-    width: 470px
-} */
+thead {
+    background-color: #7fa6fb;
+    color: white;
+}
+
+.dark-row {
+    background-color: #dfe5f2;
+}
+
+.th-1-2 {
+    width: 470px;
+}
+
+.th-3 {
+    width: 940px
+}
 
 footer {
     background-color: #313a6b;
