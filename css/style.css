@@ -46,3 +46,16 @@ figure p {
     margin-top: 0;
     font-size: 12px;
 }
+
+.main-content {
+    font-size: small;
+}
+
+.main-content strong {
+    background-color: yellow;
+    font-weight: normal;
+}
+
+.list {
+    padding-left: 0;
+}
