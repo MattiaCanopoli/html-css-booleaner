@@ -23,9 +23,14 @@ h1 {
     margin: 0;
 }
 
+
 #link {
     text-decoration: solid;
     color: rgb(78, 181, 255)
+}
+
+#link:hover {
+    text-decoration: underline;
 }
 
 #author {
