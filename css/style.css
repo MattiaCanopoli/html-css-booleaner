@@ -60,6 +60,15 @@ figure p {
     padding-left: 10px;
 }
 
+table {
+    margin-bottom: 40px;
+}
+
+/* .col-1-2 {
+    table-layout: fixed;
+    width: 470px
+} */
+
 footer {
     background-color: #313a6b;
     color: white;
